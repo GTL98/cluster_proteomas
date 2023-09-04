@@ -2,135 +2,135 @@ Metabolismo do carbono e transporte de carboidratos
 	Quantidade:
 		- 3
 	Clusters:
-		- 8261
-		- 9452
-		- 110143
+		- 8261 (phosphoketolase family protein)
+		- 9452 (glucose-6-phosphate isomerase)
+		- 110143 (triose-phosphate isomerase)
 #####
 
 Resistência ao estresse
 	Quantidade:
 		- 2
 	Clusters:
-		- 7805
-		- 7905
+		- 7805 (co-chaperone GroES)
+		- 7905 (chaperonin GroEL)
 #####
 
 Tolerância ao suco gástrico
 	Quantidade:
 		- 1
 	Clusters:
-		- 8028
+		- 8028 (manganese-dependent inorganic pyrophosphatase)
 #####
 
 Capacidade de adesão
 	Quantidade:
 		- 28
 	Clusters:
-		- 7874
-		- 8032
-		- 110682
-		- 116357
-		- 116363
-		- 116559
-		- 117422
-		- 127195
-		- 127290
-		- 128405
-		- 128456
-		- 128463
-		- 128481
-		- 128502
-		- 128529
-		- 128530
-		- 128539
-		- 128601
-		- 128646
-		- 128675
-		- 128683
-		- 128684
-		- 128720
-		- 128732
-		- 128751
-		- 135479
-		- 143834
-		- 143932
+		- 7874 (elongation factor Tu)
+		- 8032 (molecular chaperone DnaK)
+		- 110682 (NFACT RNA binding domain-containing protein ou fibronectin-binding domain-containing protein)
+		- 116357 (S41 family peptidase)
+		- 116363 (LysM domain-containing protein)
+		- 116559 (DUF916 and DUF3324 domain-containing protein)
+		- 117422 (glycoside hydrolase family 31 protein ou alpha-glucosidase)
+		- 127195 (SpaH/EbpB family LPXTG-anchored major pilin)
+		- 127290 (pilin N-terminal domain-containing protein)
+		- 128405 (type II secretion system protein ou competence protein ComGC)
+		- 128456 (FIVAR domain-containing protein ou glycoside hydrolase)
+		- 128463 (WxL domain-containing protein)
+		- 128481 (LPXTG cell wall anchor domain-containing protein)
+		- 128502 (DUF916 and DUF3324 domain-containing protein)
+		- 128529 (DUF916 and DUF3324 domain-containing protein)
+		- 128530 (WxL domain-containing protein)
+		- 128539 (S8 family serine peptidase)
+		- 128601 (SpaA isopeptide-forming pilin-related protein)
+		- 128646 (LysM domain-containing protein)
+		- 128675 (DUF1906 domain-containing protein)
+		- 128683 (MucBP domain-containing protein ou internalin)
+		- 128684 (WxL domain-containing protein)
+		- 128720 (KxYKxGKxW signal peptide domain-containing protein)
+		- 128732  *(hypothetical protein)*
+		- 128751 (DUF1542 domain-containing protein ou matrix-binding protein)
+		- 135479 (signal peptidase II)
+		- 143834 (KxYKxGKxW signal peptide domain-containing protein ou mucus-binding protein)
+		- 143932 (MBG domain-containing protein ou mucus-binding protein)
 #####
 
 Bacteriocinas
 	Quantidade:
 		- 11
 	Clusters:
-		- 55385
-		- 117215
-		- 117216
-		- 117223
-		- 127197
-		- 128604
-		- 128661
-		- 128662
-		- 128664
-		- 128665
-		- 128718
+		- 55385 (catalase)
+		- 117215 (MFS transporter)
+		- 117216 (Rrf2 family transcriptional regulator)
+		- 117223 (peptide cleavage/export ABC transporter)
+		- 127197 *(hypothetical protein)*
+		- 128604 (bacteriocin immunity protein)
+		- 128661 (bacteriocin immunity protein)
+		- 128662 (class IIb bacteriocin, lactobin A/cerein 7B family)
+		- 128664 (CPBP family intramembrane metalloprotease)
+		- 128665 (bacteriocin immunity protein)
+		- 128718 (bacteriocin secretion accessory protein ou bacteriocin ABC transporter permease)
 #####
 
 Biossíntese do ácido fólico
 	Quantidade:
 		- 5
 	Clusters:
-		- 134712
-		- 135440
-		- 135516
-		- 135861
-		- 136618
+		- 134712 (Mur ligase family protein ou cyanophycin synthetase ou bifunctional folylpolyglutamate synthase/dihydrofolate synthase folC)
+		- 135440 (aminodeoxychorismate/anthranilate synthase component II)
+		- 135516 (bifunctional folylpolyglutamate synthase/dihydrofolate synthase folC)
+		- 135861 (dihydrofolate reductase)
+		- 136618 (anthranilate synthase component I family protein pabB)
 #####
 
 Biossíntese do EPS
 	Quantidade:
 		- 19
 	Clusters:
-		- 9179
-		- 9181
-		- 110899
-		- 113610
-		- 116046
-		- 116048
-		- 116049
-		- 116055
-		- 116056
-		- 116551
-		- 116552
-		- 116607
-		- 116608
-		- 116609
-		- 116610
-		- 116792
-		- 117356
-		- 117357
-		- 128755
+		- 9179 (dTDP-4-dehydrorhamnose reductase ou NAD(P)-dependent oxidoreductase)
+		- 9181 (glucose-1-phosphate thymidylyltransferase RfbA)
+		- 110899 (UDP-phosphate galactose phosphotransferase)
+		- 113610 (UDP-N-acetylglucosamine 2-epimerase)
+		- 116046 (glycosyltransferase family 39 protein)
+		- 116048 (glycosyltransferase)
+		- 116049 (glycosyltransferase family 2)
+		- 116055 (tyrosine protein phosphatase)
+		- 116056 (LCP family protein)
+		- 116551 (CpsD/CapB family tyrosine-protein kinase)
+		- 116552 (Wzz/FepE/Etk N-terminal domain-containing protein)
+		- 116607 (glycosyl transferase family 1)
+		- 116608 (O-unit flippase-like protein)
+		- 116609 (Wzz/FepE/Etk N-terminal domain-containing protein)
+		- 116610 (EpsG family protein)
+		- 116792 (CpsD/CapB family tyrosine-protein kinase)
+		- 117356 (acyltransferase)
+		- 117357 (glycosyltransferase family 2 protein)
+		- 128755 *(hypothetical protein)*
 #####
 
 Beta galactosidase
 	Quantidade:
 		- 3
 	Clusters:
-		- 55515
-		- 56879
-		- 72004
+		- 55515 (beta-galactosidase)
+		- 56879 (beta-galactosidase)
+		- 72004 (beta-galactosidase)
 #####
 
 Manosidase
 	Quantidade:
 		- 2
 	Clusters:
-		- 58009
-		- 59457
+		- 58009 (alpha-mannosidase)
+		- 59457 (ManA1 manosidases)
 #####
 
 Sialidase
 	Quantidade:
 		- 1
 	Clusters:
-		- 71989
+		- 71989 (Sialidase A)
 #####
 
 Fucosidase
@@ -143,31 +143,31 @@ Fosfolipase
 	Quantidade:
 		- 5
 	Clusters:
-		- 57156
-		- 60253
-		- 60766
-		- 71965
-		- 72324
+		- 57156 (alpha/beta hydrolase-fold protein ou Phospholipase/carboxylesterase family protein)
+		- 60253 (alpha/beta fold hydrolase ou Putative lysophospholipase)
+		- 60766 (dienelactone hydrolase family protein ou Phospholipase/carboxylesterase family protein)
+		- 71965 (Phospholipase/carboxylesterase family protein)
+		- 72324 (Putative extracellular lysophospholipase)
 #####
 
 Resistência ao ácido biliar
 	Quantidade:
 		- 4
 	Clusters:
-		- 55590
-		- 56945
-		- 57216
-		- 57627
+		- 55590 (C69 family dipeptidase)
+		- 56945 (choloylglycine hydrolase)
+		- 57216 (C69 family dipeptidase)
+		- 57627 (MFS transporter)
 #####
 
 Proteínas hipotéticas
 	Quantidade:
 		- 5
 	Clusters:
-		- 110682
-		- 127197
-		- 128601
-		- 128732
-		- 128755
+		- 110682 (NFACT RNA binding domain-containing protein ou fibronectin-binding domain-containing protein) --> adesão
+		- 127197 *(hypothetical protein)* --> bacteriocina
+		- 128601 (SpaA isopeptide-forming pilin-related protein) --> adesão
+		- 128732 *(hypothetical protein)* --> adesão
+		- 128755 *(hypothetical protein)* --> Biossíntese do EPS
 #####
 
