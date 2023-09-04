@@ -1,0 +1,173 @@
+Metabolismo do carbono e transporte de carboidratos
+	Quantidade:
+		- 3
+	Clusters:
+		- 8261
+		- 9452
+		- 110143
+#####
+
+Resistência ao estresse
+	Quantidade:
+		- 2
+	Clusters:
+		- 7805
+		- 7905
+#####
+
+Tolerância ao suco gástrico
+	Quantidade:
+		- 1
+	Clusters:
+		- 8028
+#####
+
+Capacidade de adesão
+	Quantidade:
+		- 28
+	Clusters:
+		- 7874
+		- 8032
+		- 110682
+		- 116357
+		- 116363
+		- 116559
+		- 117422
+		- 127195
+		- 127290
+		- 128405
+		- 128456
+		- 128463
+		- 128481
+		- 128502
+		- 128529
+		- 128530
+		- 128539
+		- 128601
+		- 128646
+		- 128675
+		- 128683
+		- 128684
+		- 128720
+		- 128732
+		- 128751
+		- 135479
+		- 143834
+		- 143932
+#####
+
+Bacteriocinas
+	Quantidade:
+		- 11
+	Clusters:
+		- 55385
+		- 117215
+		- 117216
+		- 117223
+		- 127197
+		- 128604
+		- 128661
+		- 128662
+		- 128664
+		- 128665
+		- 128718
+#####
+
+Biossíntese do ácido fólico
+	Quantidade:
+		- 5
+	Clusters:
+		- 134712
+		- 135440
+		- 135516
+		- 135861
+		- 136618
+#####
+
+Biossíntese do EPS
+	Quantidade:
+		- 19
+	Clusters:
+		- 9179
+		- 9181
+		- 110899
+		- 113610
+		- 116046
+		- 116048
+		- 116049
+		- 116055
+		- 116056
+		- 116551
+		- 116552
+		- 116607
+		- 116608
+		- 116609
+		- 116610
+		- 116792
+		- 117356
+		- 117357
+		- 128755
+#####
+
+Beta galactosidase
+	Quantidade:
+		- 3
+	Clusters:
+		- 55515
+		- 56879
+		- 72004
+#####
+
+Manosidase
+	Quantidade:
+		- 2
+	Clusters:
+		- 58009
+		- 59457
+#####
+
+Sialidase
+	Quantidade:
+		- 1
+	Clusters:
+		- 71989
+#####
+
+Fucosidase
+	Quantidade:
+		- 0
+	Clusters:
+#####
+
+Fosfolipase
+	Quantidade:
+		- 5
+	Clusters:
+		- 57156
+		- 60253
+		- 60766
+		- 71965
+		- 72324
+#####
+
+Resistência ao ácido biliar
+	Quantidade:
+		- 4
+	Clusters:
+		- 55590
+		- 56945
+		- 57216
+		- 57627
+#####
+
+Proteínas hipotéticas
+	Quantidade:
+		- 5
+	Clusters:
+		- 110682
+		- 127197
+		- 128601
+		- 128732
+		- 128755
+#####
+
